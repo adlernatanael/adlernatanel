@@ -13,12 +13,11 @@ Atualmente atuo como **Analista de Teste/QA na Innova Tech One**, contribuindo p
 ### **Testes, Automação e API**
 
 <p align="left">
-  <img src="./images/robotframework.svg" width="40" height="40"/>
-  <img src="./images/cypress.svg" width="40" height="40"/>
+  <img src="./images/robotframework.svg" width="40" height="40" style="filter: hue-rotate(90deg) saturate(500%);"/>
+  <img src="./images/cypress.svg" width="40" height="40" style="filter: hue-rotate(90deg) saturate(500%);"/>
   <img src="./images/restassured.png" width="40" height="40"/>
-  <img src="./images/postman.svg" width="40" height="40"/>
+  <img src="./images/postman.svg" width="40" height="40" style="filter: hue-rotate(90deg) saturate(500%);"/>
 </p>
-
 
 
 - Robot Framework
