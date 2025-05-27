@@ -12,10 +12,13 @@ Atualmente atuo como **Analista de Teste/QA na Innova Tech One**, contribuindo p
 
 ### **Testes, Automação e API**
 
-<img src="./images/robotframework.svg" width="40" height="40"/> 
-<img src="./images/cypress.svg" width="40" height="40"/>
-<img src="./images/restassured.png" width="80" height="40"/>
-<img src="./images/postman.svg" width="80" height="40"/>
+<p align="left">
+  <img src="./images/robotframework.svg" width="40" height="40"/>
+  <img src="./images/cypress.svg" width="40" height="40"/>
+  <img src="./images/restassured.png" width="40" height="40"/>
+  <img src="./images/postman.svg" width="40" height="40"/>
+</p>
+
 
 
 - Robot Framework
@@ -27,14 +30,17 @@ Atualmente atuo como **Analista de Teste/QA na Innova Tech One**, contribuindo p
 
 ### **Ferramentas e Tecnologias**
 
-<img src="./images/java-original.svg" width="40" height="40"/> 
-<img src="./images/javascript-original.svg" width="40" height="40"/> 
-<img src="./images/git-original.svg" width="40" height="40"/> 
-<img src="./images/github.svg" width="40" height="40"/> 
-<img src="./images/docker.svg" width="40" height="40"/> 
-<img src="./images/mysql-original-wordmark.svg" width="40" height="40"/> 
-<img src="./images/intellij-idea.svg" width="40" height="40"/> 
-<img src="./images/file-type-vscode.svg" width="40" height="40"/> 
+<p align="left">
+  <img src="./images/java-original.svg" width="40" height="40"/>
+  <img src="./images/javascript-original.svg" width="40" height="40"/>
+  <img src="./images/git-original.svg" width="40" height="40"/>
+  <img src="./images/github.svg" width="40" height="40"/>
+  <img src="./images/docker.svg" width="40" height="40"/>
+  <img src="./images/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="./images/intellij-idea.svg" width="40" height="40"/>
+  <img src="./images/file-type-vscode.svg" width="40" height="40"/>
+</p>
+
 
 - Linguagens: JavaScript | Java
 - Devops: Git | GitHub Actions | Docker
@@ -45,11 +51,15 @@ Atualmente atuo como **Analista de Teste/QA na Innova Tech One**, contribuindo p
 
 ### **Colaboração e Gestão**
 
-<img src="./images/microsoft-teams-color.svg" width="40" height="40"/> 
-<img src="./images/google-meet.svg" width="40" height="40"/> 
-<img src="./images/zoom.svg" width="40" height="40"/> 
-<img src="./images/trello.svg" width="40" height="40"/>  
-<img src="./images/clickup.svg" width="40" height="40"/>  
+<p align="left">
+  <img src="./images/microsoft-teams-color.svg" width="40" height="40"/>
+  <img src="./images/google-meet.svg" width="40" height="40"/>
+  <img src="./images/zoom.svg" width="40" height="40"/>
+  <img src="./images/trello.svg" width="40" height="40"/>
+  <img src="./images/clickup.svg" width="40" height="40"/>
+</p>
+
+
 
 - Microsoft Teams | Google Meet | Zoom
 - Trello | ClickUp
